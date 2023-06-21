@@ -1,0 +1,11 @@
+Package: CDGRLA
+Type: Package
+Title: Realiza un cuadrado grecolatino
+Version: 0.1.0
+Author: Saul Guillermo Salvador Perea
+Maintainer: The package maintainer <saulsalvador5401@gmail.com>
+Description: Este paquete realiza un cuadrado grecolatino
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
